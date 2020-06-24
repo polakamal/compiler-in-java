@@ -1,0 +1,16 @@
+int x=10;
+int y=20;
+int k=0;
+if((x-y)>3)
+{
+ k=x*y;
+}
+else
+{
+ k=x/y;
+}
+float pi=3.14;
+if(k>x)
+{
+k=(k*pi)+10;
+}
